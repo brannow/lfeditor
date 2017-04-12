@@ -28,7 +28,7 @@ Following functions are implemented in this module:
 	'author_company' => 'sgalinski Internet Services',
 	'constraints' => array(
 		'depends' => array(
-			'typo3' => '7.6.12-8.6.99',
+			'typo3' => '7.6.12-8.7.99',
 		),
 		'conflicts' => array(
 		),
