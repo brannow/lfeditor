@@ -10,7 +10,7 @@
 	  "source": "https://gitlab.sgalinski.de/typo3/lfeditor/"
 	},
 	"require": {
-		"typo3/cms-core": ">=7.6.12,<8.6.99"
+		"typo3/cms-core": ">=7.6.12,<8.7.99"
 	},
 	"replace": {
 		"lfeditor": "self.version",
